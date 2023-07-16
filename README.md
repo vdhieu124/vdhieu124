@@ -9,27 +9,27 @@ I am interested in the following topic: Web programming (Front-end & Back-end).<
 
 <a href="https://github.com/vdhieu124/Final/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vdhieu124&repo=Final&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vdhieu124&repo=Final&theme=synthwave" />
 </a>    
 <a href="https://github.com/vdhieu124/DATN/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vdhieu124&repo=DATN&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vdhieu124&repo=DATN&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/vdhieu124/Android_Nhom7/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vdhieu124&repo=Android_Nhom7&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vdhieu124&repo=Android_Nhom7&theme=gruvbox" />
 </a>    
 
 <a href="https://github.com/vdhieu124/frontend-playerMusicV1/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vdhieu124&repo=frontend-playerMusicV1&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vdhieu124&repo=frontend-playerMusicV1&theme=synthwave" />
 </a>    
 
 
 <a href="https://github.com/vdhieu124/frontend-shopee1/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vdhieu124&repo=frontend-shopee1&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vdhieu124&repo=frontend-shopee1&theme=synthwave" />
 </a>    
 <a href="https://github.com/vdhieu124/frontend-theband/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
