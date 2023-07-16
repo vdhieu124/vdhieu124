@@ -33,6 +33,6 @@ I am interested in the following topic: Web programming (Front-end & Back-end).<
 </a>    
 <a href="https://github.com/vdhieu124/frontend-theband/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vdhieu124&repo=frontend-theband&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vdhieu124&repo=frontend-theband&theme=gruvbox" />
 </a>
 
