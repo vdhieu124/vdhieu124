@@ -36,3 +36,8 @@ I am interested in the following topic: Web programming (Front-end & Back-end).<
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vdhieu124&repo=frontend-theband&theme=gruvbox" />
 </a>
 
+<a href="https://github.com/vdhieu124/Console_shop_app/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vdhieu124&repo=Console_shop_app&theme=gruvbox" />
+</a>
+
