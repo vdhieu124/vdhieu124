@@ -2,6 +2,7 @@
 My name is Vuong Duy Hieu. I am a Bachelor of Information Technology, majoring in Information System.<br>
 I am interested in the following topic: Web programming (Front-end & Back-end).<br>
 ## 📫 How to reach me: 
+Email: hieu.vuongduy12@gmail.com
 
 
 
@@ -40,4 +41,8 @@ I am interested in the following topic: Web programming (Front-end & Back-end).<
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vdhieu124&repo=Console_shop_app&theme=gruvbox" />
 </a>
+<a href="https://github.com/vdhieu124/sneaker_store/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vdhieu124&repo=sneaker_store&theme=synthwave" />
+</a>   
 
